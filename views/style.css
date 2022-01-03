@@ -1,0 +1,23 @@
+body{
+	background-color: beige;
+	color: #1F1F2F;
+}
+#myTable{
+    width: 500px;
+    margin: 15px auto 0 auto;
+}
+
+#myTable td{
+    border-bottom: solid darkslateblue 1px;
+    background-color: cornsilk;
+}
+
+#myTable th{
+    border-bottom: solid darkslateblue 3px;
+    background-color: floralwhite;
+}
+
+h1{
+    text-align:center;
+    color:cornflowerblue;
+}
